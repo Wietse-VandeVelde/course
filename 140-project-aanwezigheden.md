@@ -27,7 +27,7 @@
 
 Het sterschema ziet er als volgt uit:
 
-![](images/ERD.png)
+**![](images/ERD.png)**
 
 
 ---
